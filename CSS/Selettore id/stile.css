@@ -14,8 +14,14 @@ h3{
 h4{
     color:yellow;
 }
-h5{
-    color:orange;
+h5{.rosso
+    color: red;
+    }
+ 
+ #scritta
+ {
+ background: #ccc;
+ text-align: right;
 }
 h6{
     color:blue;
