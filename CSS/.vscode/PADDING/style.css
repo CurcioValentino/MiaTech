@@ -1,4 +1,7 @@
 .container { 
+    background-color: aquamarine;
     padding-left: 80px;
     padding-right: 100px;
+    border: 23px;
+    margin-top: 56px;
  }
