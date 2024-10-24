@@ -1,4 +1,4 @@
-div.paragraphs > p{
+.paragraphs {
     color: green;
     text-align: end;
 }
