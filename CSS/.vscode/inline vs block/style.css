@@ -1,5 +1,5 @@
-span.1 {
-    display: inline; /* the default for span */
+.a {
+    display: inline;
     width: 100px;
     height: 100px;
     padding: 5px;
@@ -7,7 +7,7 @@ span.1 {
     background-color: yellow; 
   }
   
-  span.2 {
+  .b {
     display: inline-block;
     width: 100px;
     height: 100px;
@@ -16,7 +16,7 @@ span.1 {
     background-color: yellow; 
   }
   
-  span.3 {
+  .c {
     display: block;
     width: 100px;
     height: 100px;
